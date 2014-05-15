@@ -38,7 +38,7 @@ BOARD_KERNEL_BASE := 0x80000000
 BOARD_PAGE_SIZE := 0x4096
 
 # Kernel Build
-TARGET_KERNEL_VARIANT_CONFIG := mapphone_edison_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := mapphone_OCEdison_defconfig
 
 TARGET_USES_CUSTOM_INITFILES := true
 
