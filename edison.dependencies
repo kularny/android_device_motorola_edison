@@ -2,7 +2,7 @@
   {
     "repository": "kularny/android_device_motorola_omap4-common",
     "target_path": "device/motorola/omap4-common"
-    "branch": "cm-11.0"
+    "branch": "aokp4.4"
   },
   {
     "repository": "kularny/android_kernel_motorola_omap4-common",
